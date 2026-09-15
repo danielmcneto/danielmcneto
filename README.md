@@ -1,6 +1,6 @@
 
 
-# What's up? I'm Daniel
+# What's up? I'm Dan
 
 *Junior Computer Engineer in the making and building hardware and software projects*
 
