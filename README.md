@@ -11,6 +11,7 @@
 | :--- | :--- | :--- |
 | **[5-Second Panic](https://github.com/danielmcneto/WarioWareGame)** | WarioWare-like game built for Stardance. | `Godot`, `GDScript`, `Aseprite` |
 | **[Life Simulation](https://github.com/danielmcneto/life-simulation)** | An simulation of how DNA pass through generations for Stardance. | `Godot`, `GDScript`, `Aseprite` |
+| **[Tupy Lang](https://github.com/danielmcneto/Tupy-Programming-Language)** | imperative scripting language interpreter built in Python from scratch. | `Python` |
 
 ### Tech Stack & Tools
 
@@ -20,6 +21,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+* **Tools:** KiCad, FreeCad, GitHub
 
 <!--### Certificates & Achievements
 
@@ -39,12 +42,18 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
+### GitHub Streak
 
-<!-- Streak Card -->
-<!--<img src="https://streak-stats.demolab.com?user=danielmcneto&theme=dark" alt="GitHub Streak" />-->
+<img src="https://streak-stats.demolab.com?user=danielmcneto&theme=dark" alt="GitHub Streak"/>
 
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danielmcneto&layout=compact&theme=dark" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+### Top Languages
+
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danielmcneto&layout=compact&theme=dark" alt="Top Languages"/>
 
 </div>
